@@ -1,0 +1,18 @@
+export const icons = {
+  WELCOME_STEP_ONE: require('../assets/images/welcome_step_one/welcome_step_one.webp'),
+  WELCOME_STEP_TWO: require('../assets/images/welcome_step_two/welcome_step_two.jpeg'),
+  WELCOME_STEP_THREE: require('../assets/images/welcome_step_three/welcome_step_three.jpeg'),
+  MY_AVATAR: require('../assets/images/profile_pic/profile_pic.png'),
+  HOME_TAB: require('../assets/images/home_tab/home_tab.png'),
+  PROFIL_TAB: require('../assets/images/profil/profil.png'),
+  SEARCH: require('../assets/images/search/search.png'),
+  ARROW_LEFT: require('../assets/images/arrow_left/arrow_left.png'),
+  MARSEILLE: require('../assets/images/home_background/marseille.jpeg'),
+  RESET: require('../assets/images/reset/reset.png'),
+  LINKEDIN: require('../assets/images/linkedin/linkedin.png'),
+  GITHUB: require('../assets/images/github/github.png'),
+  RESUME: require('../assets/images/resume/resume.png'),
+  NO_CONNECTION: require('../assets/images/no_connection/no_connection.png'),
+  EMPTY_RESULT: require('../assets/images/empty_result/empty_result.gif'),
+  ARROW_RIGHT: require('../assets/images/arrow_right/arrow_right.png'),
+};

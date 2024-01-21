@@ -1,0 +1,22 @@
+export const colors = {
+  PRIMARY: '#DE3021',
+  BLACK: '#000000',
+  WHITE: '#FFFFFF',
+  DARK_RED: '#B51B0E',
+  TRANSPARENT: 'transparent',
+  GRAY: '#E2E2E2',
+  DARK_GRAY: '#B6B6B6',
+  DISABLED_BUTTON: '#F2EEEE',
+  DISABLED_BUTTON_TEXT: '#7D6E6E',
+  TEXT_PLACEHOLDER: '#636363',
+  INPUT_ERROR: '#CC293F',
+  SUCCESS: '#0D8540',
+  GREY_LIGHT: '#B2B2B2',
+  TEXT_LIGHT: '#636363',
+  STATUS_ERROR: '#CC293F',
+  LINKEDIN_BLUE: '#0077B5',
+};
+
+export const gradientColors = {
+  PRIMARY: [colors.PRIMARY, colors.DARK_RED],
+};
