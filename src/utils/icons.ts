@@ -15,4 +15,5 @@ export const icons = {
   NO_CONNECTION: require('../assets/images/no_connection/no_connection.png'),
   EMPTY_RESULT: require('../assets/images/empty_result/empty_result.gif'),
   ARROW_RIGHT: require('../assets/images/arrow_right/arrow_right.png'),
+  CITY_FOUNDED: require('../assets/images/city_founded/city_founded.png'),
 };
