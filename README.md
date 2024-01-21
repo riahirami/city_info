@@ -2,6 +2,13 @@
 
 Welcome to my React Native evaluation project! This project showcases my skills in React Native development, including the use of Redux Toolkit, RTK Query, and custom hooks.
 
+
+<div style={{ flexDirection: 'row' }}>
+  <img src="https://i.postimg.cc/T2G1fRZ2/Screenshot-1705865081.png" alt="Screen 1" width="400" />
+  <img src="https://i.postimg.cc/FmQ7jZ7t/Screenshot-1705866961.png" alt="Screen 2" width="400" />
+</div>
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
