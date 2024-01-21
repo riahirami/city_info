@@ -72,7 +72,7 @@ yarn apk     # Assemble release APK
 
 The project is thoughtfully structured to deliver a seamless user experience, leveraging various components and technologies. Key features include:
 
-- **Welcome Screen with slide of Three Pictures**
+- **Welcome Screen with slide of three pictures (when you open application for the first time) **
   
 - **Scalability to tablet screens**
   
