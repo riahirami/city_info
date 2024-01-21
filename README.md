@@ -2,10 +2,15 @@
 
 Welcome to my React Native evaluation project! This project showcases my skills in React Native development, including the use of Redux Toolkit, RTK Query, and custom hooks.
 
-
+ # Tablet android : 
 <div style={{ flexDirection: 'row' }}>
+ 
   <img src="https://i.postimg.cc/T2G1fRZ2/Screenshot-1705865081.png" alt="Screen 1" width="400" />
   <img src="https://i.postimg.cc/FmQ7jZ7t/Screenshot-1705866961.png" alt="Screen 2" width="400" />
+
+  # Tablet / device ios : 
+  <img src="https://i.postimg.cc/YqxXqKtB/Simulator-Screenshot-i-Phone-SE-2020-2024-01-21-at-22-49-15.png" alt="Screen 2" width="400" />
+  <img src="https://i.postimg.cc/BvjNgjHJ/Simulator-Screenshot-i-Pad-10th-generation-2024-01-21-at-22-49-28.png" alt="Screen 2" width="400" />
 </div>
 
 
